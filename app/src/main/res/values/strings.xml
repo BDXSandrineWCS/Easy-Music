@@ -2,4 +2,8 @@
     <string name="app_name">Easy Music</string>
     <string name="urlMusicText">http://hcmaslov.d-real.sci-nnov.ru/public/mp3/Queen/Queen%20\'Bohemian%20Rhapsody\'.mp3
 </string>
+    <string name="startText">Play</string>
+    <string name="pauseText">Pause</string>
+    <string name="resetText">Reset</string>
+    <string name="loopText">Loop</string>
 </resources>
